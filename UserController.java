@@ -13,6 +13,7 @@ public class UserController {
 		Scanner sc=new Scanner(System.in);
 		boolean flag=true;
 		UserService us=new UserImpli();
+System.out.println("===hiiiiiiiiii====");
 		
 		while(flag) {
 			System.out.println("\t\t\t\t\t-------------------------------------------------\t\t\t\t\t\t");
